@@ -39,3 +39,7 @@ env/
 
 ### Data
 data/ 
+cif_files/
+
+### Plotting
+output/
